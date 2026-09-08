@@ -1,0 +1,57 @@
+#EXTM3U url-tvg="https://paskferrari.github.io/kino-releases/demo/guide.xml"
+# Kino demo playlist — solo contenuti liberi: film Creative Commons / pubblico dominio e canali
+# free-to-air pubblicati dai rispettivi titolari. Dettagli e attribuzioni:
+# https://paskferrari.github.io/kino-releases/demo/
+# Kino demo playlist — free content only: Creative Commons / public-domain films and
+# free-to-air channels published by their owners. Credits at the URL above.
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/960px-Big_buck_bunny_poster_big.jpg" group-title="Film",Big Buck Bunny (2008)
+https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster.jpg" group-title="Film",Sintel (2010)
+https://archive.org/download/Sintel/sintel-2048-surround.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/960px-Tos-poster.png" group-title="Film",Tears of Steel (2012)
+https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Elephants_Dream_s5_both.jpg/960px-Elephants_Dream_s5_both.jpg" group-title="Film",Elephants Dream (2006)
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/His_Girl_Friday_%281940_poster%29.jpg/960px-His_Girl_Friday_%281940_poster%29.jpg" group-title="Classici",His Girl Friday (1940)
+https://archive.org/download/his_girl_friday/his_girl_friday_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nosferatu_Poster.jpg/960px-Nosferatu_Poster.jpg" group-title="Classici",Nosferatu (1922)
+https://archive.org/download/nosferatu_1922/nosferatu_1922.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Elephants_Dream_s5_both.jpg/960px-Elephants_Dream_s5_both.jpg" group-title="Serie",Blender Open Movies S01E01 Elephants Dream
+https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/960px-Big_buck_bunny_poster_big.jpg" group-title="Serie",Blender Open Movies S01E02 Big Buck Bunny
+https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster.jpg" group-title="Serie",Blender Open Movies S01E03 Sintel
+https://archive.org/download/Sintel/sintel-2048-surround.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/960px-Tos-poster.png" group-title="Serie",Blender Open Movies S01E04 Tears of Steel
+https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov
+
+#EXTINF:-1 tvg-id="senato.demo" tvg-logo="https://i.imgur.com/h4NyN5d.png" group-title="Italia",Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="rainews24.demo" tvg-logo="https://i.imgur.com/n2u57y3.png" group-title="Italia",Rai News 24
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
+#EXTINF:-1 tvg-id="classcnbc.demo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Class_CNBC_2026.svg/960px-Class_CNBC_2026.svg.png" group-title="Italia",Class CNBC
+https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="teleticino.demo" tvg-logo="https://i.imgur.com/u6dLKa9.png" group-title="Italia",TeleTicino
+https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:-1 tvg-id="padrepio.demo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg" group-title="Italia",Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="france24en.demo" tvg-logo="" group-title="News",France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="france24fr.demo" tvg-logo="" group-title="News",France 24 Français
+https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="dw.demo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png" group-title="News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="aje.demo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Aljazeera_eng.svg/500px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="trtworld.demo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="cgtn.demo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="News",CGTN
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 tvg-id="cna.demo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNA_logo.svg/500px-CNA_logo.svg.png" group-title="News",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="bloomberg.demo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/500px-Bloomberg_Television_logo.svg.png" group-title="News",Bloomberg TV Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="nasa.demo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/500px-NASA_logo.svg.png" group-title="Scienza",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
