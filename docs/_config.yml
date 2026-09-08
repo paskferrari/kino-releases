@@ -1,0 +1,9 @@
+title: Kino
+description: Player M3U e Xtream per Android. Il tuo cinema, i tuoi canali.
+theme: jekyll-theme-cayman
+lang: it
+show_downloads: false
+exclude:
+  - README.md
+include:
+  - demo
